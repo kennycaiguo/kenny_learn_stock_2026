@@ -18,8 +18,13 @@
 
 ## 2.理解分时图黄白线的位置关系 <br>
 <img width="1076" height="544" alt="image" src="https://github.com/user-attachments/assets/338da0bd-385e-47f3-8bc9-43ed29cbe9d9" /><br>
+### 上涨时的情况<br>
 <img width="1212" height="669" alt="image" src="https://github.com/user-attachments/assets/8e5b21d7-a747-408d-a4b8-b5775bad8f9f" /><br>
 <img width="1149" height="650" alt="image" src="https://github.com/user-attachments/assets/7ef71954-c922-40fa-9552-4698e55a805d" /><br>
+### 下跌时的情况，如果黄线在白线下面，说明中小盘跌的凶，亏钱的人很多<br>
+<img width="1139" height="631" alt="image" src="https://github.com/user-attachments/assets/0ec4f3d0-fed6-4f0a-a453-5478e60af8e9" /><br>
+<img width="1148" height="646" alt="image" src="https://github.com/user-attachments/assets/db1e5628-af7b-4e3c-a1af-12dabb4d43e6" /><br>
+
 
 
 
