@@ -21,10 +21,28 @@
 ### 5>一字板（涨挺，跌停）<br>
 <img width="1027" height="476" alt="image" src="https://github.com/user-attachments/assets/4752b2af-f8b1-41db-aabf-7f1fa65e0242" /><br>
 # 2.k线的市场意义
-### 涨停情况<br>
+### 涨停情况,出现涨停，你就很难买入<br>
 <img width="1218" height="663" alt="image" src="https://github.com/user-attachments/assets/9ff02020-dc29-4ef0-99a9-5dde38c5bf2c" /><br>
-### 跌停情况<br>
+### 跌停情况，出现跌停，你就很难卖出<br>
 <img width="1191" height="660" alt="image" src="https://github.com/user-attachments/assets/f0a5df09-c4b7-4b6b-810a-2fee6fa24af3" /><br>
+#### 出现涨停和跌停的原因<br>
+<img width="790" height="266" alt="image" src="https://github.com/user-attachments/assets/56c46b65-dd87-4176-82f2-d83a38da6099" /><br>
+### k线的意义<br>
+<img width="1069" height="353" alt="image" src="https://github.com/user-attachments/assets/51d09635-6371-4d37-bcca-25108d625e95" /><br>
+### 上下影线长短的意义<br>
+<img width="756" height="520" alt="image" src="https://github.com/user-attachments/assets/94f3adef-57c6-4254-8501-67f8d1e72e6b" /><br>
+### 十字星的意义，表明多空力量均衡<br>
+<img width="370" height="412" alt="image" src="https://github.com/user-attachments/assets/6bbc610d-d824-4fbe-9ffa-7e69c30b323e" /><br>
+### 案例<br>
+<img width="1157" height="643" alt="image" src="https://github.com/user-attachments/assets/0d6dbd31-1602-4a0f-9712-67db0780fdd6" /><br>
+#### 关键节点分析<br>
+<img width="1184" height="658" alt="image" src="https://github.com/user-attachments/assets/bd86ba46-bf84-4a72-b0f1-1de99223f538" /><br>
+### k线多空力量演化示意图<br>
+<img width="1134" height="573" alt="image" src="https://github.com/user-attachments/assets/36870359-e3d0-4a1a-a102-119d9717fa97" /><br>
+
+
+
+
 
 
 
