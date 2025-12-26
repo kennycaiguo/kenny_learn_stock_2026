@@ -19,6 +19,9 @@
 <img width="1141" height="638" alt="image" src="https://github.com/user-attachments/assets/ffe76cdb-5ee9-499a-a8e8-308a41077a5b" /><br>
 ## 均线对股价起到压力作用，因为每一次股价到达均线，就会下跌，效果如图<br>
 <img width="1136" height="638" alt="image" src="https://github.com/user-attachments/assets/743662ba-b8ee-4ed1-b6bf-b7666f41cb4b" /><br>
+## 均价线对投资者的心理影响<br>
+<img width="1033" height="273" alt="image" src="https://github.com/user-attachments/assets/f4b16fa6-7344-4d8e-a3d2-0eb6b2cc33bb" /><br>
+
 
 
 
