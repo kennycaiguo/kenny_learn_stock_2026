@@ -36,7 +36,7 @@
 ### 案例<br>
 <img width="1157" height="643" alt="image" src="https://github.com/user-attachments/assets/0d6dbd31-1602-4a0f-9712-67db0780fdd6" /><br>
 #### 关键节点分析<br>
-<img width="1184" height="658" alt="image" src="https://github.com/user-attachments/assets/bd86ba46-bf84-4a72-b0f1-1de99223f538" /><br>
+<img width="1151" height="640" alt="image" src="https://github.com/user-attachments/assets/b1544b91-0591-4f9e-8501-822bfc12176c" /><br>
 ### k线多空力量演化示意图<br>
 <img width="1134" height="573" alt="image" src="https://github.com/user-attachments/assets/36870359-e3d0-4a1a-a102-119d9717fa97" /><br>
 
