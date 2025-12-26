@@ -39,6 +39,8 @@
 <img width="1151" height="640" alt="image" src="https://github.com/user-attachments/assets/b1544b91-0591-4f9e-8501-822bfc12176c" /><br>
 ### k线多空力量演化示意图<br>
 <img width="1134" height="573" alt="image" src="https://github.com/user-attachments/assets/36870359-e3d0-4a1a-a102-119d9717fa97" /><br>
+### 还可以进一步演化<br>
+<img width="1263" height="578" alt="image" src="https://github.com/user-attachments/assets/f6484b3e-666f-4b39-8401-54317ef71481" /><br>
 
 
 
