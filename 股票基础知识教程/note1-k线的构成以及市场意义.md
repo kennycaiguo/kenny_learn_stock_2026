@@ -8,9 +8,10 @@
 <img width="809" height="533" alt="image" src="https://github.com/user-attachments/assets/ade5bb83-b99e-4860-8a77-ff48360f058a" /> <br>
 ## 几种常见的其他类型的k线
 ### 1>光头阳线，光脚阳线，光头光脚阳线<br>
-<img width="1077" height="465" alt="image" src="https://github.com/user-attachments/assets/09012fe7-06da-459a-8849-e2c6f87f95c0" />
+<img width="1077" height="465" alt="image" src="https://github.com/user-attachments/assets/09012fe7-06da-459a-8849-e2c6f87f95c0" /><br>
+
 <br>
-<br>
+
 ### 2>光头阴线，光脚阴线，光头光脚阴线<br>
 <img width="1112" height="443" alt="image" src="https://github.com/user-attachments/assets/8e21e156-649b-45ed-9410-ca580825fc32" /> <br>
 ### 3>十字星 <br>
