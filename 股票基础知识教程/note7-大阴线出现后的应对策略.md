@@ -13,7 +13,16 @@
 ## 庄家打压式洗盘的案例<br>
 <img width="1146" height="642" alt="image" src="https://github.com/user-attachments/assets/bc3e05a0-1f81-4739-85e1-e1aa2290f3a5" /><br>
 <img width="1151" height="656" alt="image" src="https://github.com/user-attachments/assets/fa510c6b-158b-4647-8265-af43c114434e" /><br>
-### 有关洗盘的知识，参考这里： https://finance.ifeng.com/c/7gbJb3aEcHT
+### 有关洗盘的知识，参考这里： https://finance.ifeng.com/c/7gbJb3aEcHT<br>
+### 常见几种和大阴线有关的k线形态<br>
+<img width="638" height="309" alt="image" src="https://github.com/user-attachments/assets/739bcac4-2559-4f4b-a299-45ef22bbb6f6" /><br>
+### 与大阴线相关的战法<br>
+<img width="1042" height="239" alt="image" src="https://github.com/user-attachments/assets/91a19403-c108-448a-a718-2bb5ef45bdbd" /><br>
+### 断头铡案例，遇到需要高抛<br>
+<img width="1155" height="633" alt="image" src="https://github.com/user-attachments/assets/89d280f6-78ff-4ef7-91a2-8b4b67b422bb" /><br>
+<img width="1142" height="627" alt="image" src="https://github.com/user-attachments/assets/a6c0f998-0ca6-4620-9b4a-4521caf68029" />
+
+
 
 
 
