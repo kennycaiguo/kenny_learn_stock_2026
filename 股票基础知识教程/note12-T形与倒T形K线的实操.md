@@ -20,7 +20,8 @@
 ## 倒T形K线出现在低位的案例3，不适合进场，这是空方力量没有释放完的信号<br>
 <img width="1001" height="600" alt="image" src="https://github.com/user-attachments/assets/74a9b703-d44a-4644-8ef0-97454baa442b" /><br>
 ## 倒T形K线出现在低位的案例4，不适合进场<br>
-<img width="986" height="584" alt="image" src="https://github.com/user-attachments/assets/19f90026-30c6-4873-a459-1f536b9b8fd6" />
+<img width="986" height="584" alt="image" src="https://github.com/user-attachments/assets/19f90026-30c6-4873-a459-1f536b9b8fd6" /><br>
+
 ## 可见，倒T形的k线，是空放力量没有释放完成的信号，不管是在高位还是低位，风险都比较大<br>
 
 
