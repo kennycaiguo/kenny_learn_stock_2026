@@ -12,6 +12,8 @@
 <img width="1086" height="630" alt="image" src="https://github.com/user-attachments/assets/2b9c5269-53f9-4a04-8f6c-adc93cc51a49" /><br>
 # 庄家常用的欺骗手法<br>
 <img width="1102" height="339" alt="image" src="https://github.com/user-attachments/assets/7bd68c45-e3d7-4b2c-bf15-acbb55a5b39b" /><br>
+## 庄家出货案例<br>
+<img width="1114" height="642" alt="image" src="https://github.com/user-attachments/assets/bc62d0be-fe37-471b-a616-9fc5520354ce" /><br>
 
 
 
