@@ -5,7 +5,7 @@
 ## 换手率案例<br>
 <img width="1135" height="623" alt="image" src="https://github.com/user-attachments/assets/104ecad0-a63f-4e74-8dc4-52f1a7612db3" /><br>
 ## 换手率案例<br>
-<img width="1142" height="653" alt="image" src="https://github.com/user-attachments/assets/ef4c244f-ed7b-4400-b72a-6cc0b99c6ae5" />
+<img width="1142" height="653" alt="image" src="https://github.com/user-attachments/assets/ef4c244f-ed7b-4400-b72a-6cc0b99c6ae5" /><br>
 # 换手率的一般用法<br>
 <img width="1046" height="543" alt="image" src="https://github.com/user-attachments/assets/c01ebe0f-349c-4cd7-9d82-b6a1d77fe02a" /><br>
 # 换手率高的股票案例,这种股票适合短期交易<br>
