@@ -29,7 +29,7 @@
 <img width="1060" height="279" alt="image" src="https://github.com/user-attachments/assets/8f5291ca-db98-44df-bebe-0f8c961a6c02" /><br>
 ## 主力可能在出货的换手率案例<br>
 <img width="1143" height="637" alt="image" src="https://github.com/user-attachments/assets/863e8512-c3b0-4a60-a8ef-23940eb153c5" /><br>
-
+## 总结：换手率在5%以上的股票才是活跃的股票，但是换手率太高，有可能是主力在出货，尤其当价位比较高的情况，如果一个股票的流通盘也小，换手率也小，这个股票是不建议交易的，分分钟会变为僵尸股
 
 
 
