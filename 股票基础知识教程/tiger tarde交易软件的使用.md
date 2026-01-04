@@ -4,4 +4,5 @@
 ## <2> 点击显示偏好，在涨跌偏好一栏选择红涨绿跌<br>
 <img width="774" height="558" alt="image" src="https://github.com/user-attachments/assets/d4b022c1-32d4-4475-8d93-ea330fce5e5a" /><br>
 ### 这样子，就可以设置它和我们课程使用的颜色一致了<br>
+<img width="949" height="497" alt="image" src="https://github.com/user-attachments/assets/4dd6cc12-5cc7-45c5-92fd-18b7e783da3e" /><br>
 
