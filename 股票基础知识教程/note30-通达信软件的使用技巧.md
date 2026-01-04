@@ -7,5 +7,5 @@
 <img width="1139" height="644" alt="image" src="https://github.com/user-attachments/assets/0d6e0498-e3a0-434e-a411-75211816f5ad" /><br>
 # 通达信软件常用快捷键<br>
 <img width="831" height="330" alt="image" src="https://github.com/user-attachments/assets/596d36c6-87b2-445c-b3e5-6928ceb63340" /><br>
-
+## 注意：这个软件需要照顾手机号在国外用不了，先不学了。
 
