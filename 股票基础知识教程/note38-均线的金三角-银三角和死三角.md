@@ -22,6 +22,6 @@
 <img width="1467" height="642" alt="image" src="https://github.com/user-attachments/assets/0b719705-1d71-4c25-84cb-6121cbc63303" /><br>
 ## 死三角案例<br>
 <img width="1636" height="913" alt="image" src="https://github.com/user-attachments/assets/78bfa736-4310-4899-8de4-dabab2a797c1" /><br>
-## 多次出现死三角案例<br>
+## 多次出现死三角，典型的“逃顶”案例<br>
 <img width="1640" height="916" alt="image" src="https://github.com/user-attachments/assets/6581c723-eb32-449d-a6dc-fdd36aa15cc4" /><br>
 
