@@ -1,7 +1,7 @@
 # 葛兰碧是谁<br>
 <img width="1512" height="670" alt="image" src="https://github.com/user-attachments/assets/7200c0a5-05de-4190-9a1f-c690d2ca0aaf" /><br>
 # 葛兰碧均线法则图示<br>
-<img width="1577" height="923" alt="image" src="https://github.com/user-attachments/assets/d5b4a2c9-15e1-41ab-a5f9-edeace72f4b2" />
+<img width="1577" height="923" alt="image" src="https://github.com/user-attachments/assets/d5b4a2c9-15e1-41ab-a5f9-edeace72f4b2" /><br>
 <img width="1584" height="898" alt="image" src="https://github.com/user-attachments/assets/a15a531b-a11e-408e-9891-81389a63f5f9" /><br>
 ## 买入法则1<br>
 <img width="1467" height="534" alt="image" src="https://github.com/user-attachments/assets/bf2ecb88-73dc-46cf-ada8-4eac7a21dd42" /><br>
