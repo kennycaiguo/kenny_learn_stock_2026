@@ -20,7 +20,7 @@
 <img width="1436" height="914" alt="image" src="https://github.com/user-attachments/assets/47c19e4a-f3b1-4048-a321-0e5f5612682b" /><br>
 ## 实操案例2，底背离不一定是抄底信号，底背离有时候会出现多次，需要小心，一不小心就抄底抄在半山腰<br>
 <img width="1656" height="929" alt="image" src="https://github.com/user-attachments/assets/83cbbd66-eb70-4ad5-8cb8-06ea53ac7965" /><br>
-## 实操案例3<br>
+## 实操案例3，计算出现了4次底背离，也不一定下一次就是抄底良机<br>
 <img width="1698" height="908" alt="image" src="https://github.com/user-attachments/assets/99376d4f-b1e2-45ea-a15d-85a8470bda33" /><br>
 
 
