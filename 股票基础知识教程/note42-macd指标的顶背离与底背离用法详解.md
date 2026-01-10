@@ -12,7 +12,7 @@
 <img width="1621" height="906" alt="image" src="https://github.com/user-attachments/assets/212d1242-5736-43fe-adff-2bc31f9ef073" /><br>
 # 股友困惑<br>
 <img width="1431" height="670" alt="image" src="https://github.com/user-attachments/assets/a9b1af65-b8d8-45b7-861b-8c966a072249" /><br>
-## ## 底背离案例2<br>
+##  底背离案例2<br>
 <img width="1627" height="911" alt="image" src="https://github.com/user-attachments/assets/0e16e7c8-8fb4-4667-ab31-4fb455a22037" /><br>
 # 3.macd指标的顶背离与底背离在实操中的运用技巧<br>
 <img width="1622" height="792" alt="image" src="https://github.com/user-attachments/assets/6ae75422-1c77-4325-a7bf-01171f9c5080" /><br>
