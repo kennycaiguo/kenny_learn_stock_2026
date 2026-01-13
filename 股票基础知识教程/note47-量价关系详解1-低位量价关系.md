@@ -20,7 +20,6 @@
 <img width="1501" height="771" alt="{51260661-790A-400F-8E1E-D8AF428A4D81}" src="https://github.com/user-attachments/assets/0d4660e6-b158-4c45-a770-2a39f3762ded" /><br>
 ## 放量下跌案例<br>
 <img width="1638" height="922" alt="{ABA0B16F-D83C-4489-AC5E-CE9CA1722533}" src="https://github.com/user-attachments/assets/3dde05e0-ec95-46d4-8eac-2a5df77f9829" /><br>
-## 平量下跌案例<br>
 ## 缩量下跌案例<br>
 <img width="1646" height="930" alt="{8E5559AC-6E94-42A7-B673-12D40119D08F}" src="https://github.com/user-attachments/assets/7f90ecac-1f4e-4cb8-9a30-98fa89d9b138" /><br>
 ## 第二次探底，成交量明显萎缩<br>
