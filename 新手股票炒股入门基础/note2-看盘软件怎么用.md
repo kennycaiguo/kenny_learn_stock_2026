@@ -1,5 +1,5 @@
 # 1.看盘3招<br>
-<img width="681" height="425" alt="{7933F3DA-DE9F-4821-96A8-8745FE01216E}" src="https://github.com/user-attachments/assets/9e3ae1de-dae5-4bc7-9347-736e0a485f98" />
+<img width="681" height="425" alt="{7933F3DA-DE9F-4821-96A8-8745FE01216E}" src="https://github.com/user-attachments/assets/9e3ae1de-dae5-4bc7-9347-736e0a485f98" /><br>
 # 2.分时图理解<br>
 <img width="1616" height="769" alt="image" src="https://github.com/user-attachments/assets/e3492224-9954-440c-a38d-0e7995ab5745" /><br>
 # 3.成交量理解<br>
