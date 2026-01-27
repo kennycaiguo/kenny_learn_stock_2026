@@ -1,5 +1,5 @@
 # 1.如何寻找热门股票<br>
-<img width="712" height="411" alt<br>="image" src="https://github.com/user-attachments/assets/6824e4be-d639-43ed-b545-235d9b79c014" /><br>
+<img width="712" height="411" alt="image" src="https://github.com/user-attachments/assets/6824e4be-d639-43ed-b545-235d9b79c014" /><br>
 ## 1>热点板块的形成因素
 ### 什么是板块<br>
 <img width="988" height="456" alt="image" src="https://github.com/user-attachments/assets/cdd7943c-fd7f-49e9-acc9-5e2efb471e3f" /><br>
