@@ -11,9 +11,16 @@
 ### 毛利率的用途<br>
 <img width="768" height="516" alt="image" src="https://github.com/user-attachments/assets/f8fc46e1-194d-450c-855e-fb61994db9ed" /><br>
 ## 2>销售净利率<br>
-<img width="838" height="592" alt="image" src="https://github.com/user-attachments/assets/fab899d6-6cce-40a6-b3bb-f4391e3c99aa" />
-<img width="607" height="190" alt="image" src="https://github.com/user-attachments/assets/0ddf1451-8d2a-419e-bc15-e73826091b79" />
-<img width="725" height="448" alt="image" src="https://github.com/user-attachments/assets/4f461a0a-0f25-4304-9b01-060fc964a51a" />
+<img width="838" height="592" alt="image" src="https://github.com/user-attachments/assets/fab899d6-6cce-40a6-b3bb-f4391e3c99aa" /><br>
+<img width="607" height="190" alt="image" src="https://github.com/user-attachments/assets/0ddf1451-8d2a-419e-bc15-e73826091b79" /><br>
+<img width="725" height="448" alt="image" src="https://github.com/user-attachments/assets/4f461a0a-0f25-4304-9b01-060fc964a51a" /><br>
+<img width="620" height="221" alt="image" src="https://github.com/user-attachments/assets/45a74be9-699d-4eae-835e-e4171d069512" /><br>
+## 3>营业利润率<br>
+<img width="776" height="476" alt="image" src="https://github.com/user-attachments/assets/4ae7210f-c746-44e2-8bec-6362aaff80cf" />
+<img width="655" height="442" alt="image" src="https://github.com/user-attachments/assets/355f68b7-bdfb-455c-9838-cb86f7bc7397" />
+<img width="692" height="434" alt="image" src="https://github.com/user-attachments/assets/2e1adc1d-7921-41e6-a607-7049d651941c" />
+
+
 
 
 
