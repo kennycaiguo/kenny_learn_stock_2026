@@ -18,7 +18,16 @@
 ## 3>营业利润率<br>
 <img width="776" height="476" alt="image" src="https://github.com/user-attachments/assets/4ae7210f-c746-44e2-8bec-6362aaff80cf" />
 <img width="655" height="442" alt="image" src="https://github.com/user-attachments/assets/355f68b7-bdfb-455c-9838-cb86f7bc7397" />
-<img width="692" height="434" alt="image" src="https://github.com/user-attachments/assets/2e1adc1d-7921-41e6-a607-7049d651941c" />
+<img width="692" height="434" alt="image" src="https://github.com/user-attachments/assets/2e1adc1d-7921-41e6-a607-7049d651941c" /><br>
+## 4>资产净利率，可以前面的反映一家公司的盈利能力以及资产负债管理能力，这是一个非常重要的指标，有很强的综合性<br>
+<img width="767" height="654" alt="image" src="https://github.com/user-attachments/assets/5802e522-ec2a-4a2e-bae6-d5a3caace5fe" /><br>
+<img width="668" height="454" alt="image" src="https://github.com/user-attachments/assets/ae70b388-54db-4aa1-b56e-9c3f88868b3c" /><br>
+### 这个指标的作用<br>
+<img width="791" height="509" alt="image" src="https://github.com/user-attachments/assets/f798fc5f-75d2-4505-8fa9-3b8a0e734e85" /><br>
+## 5>净资产收益率，这是最重要，综合性最强的指标<br>
+<img width="961" height="731" alt="image" src="https://github.com/user-attachments/assets/98a28109-7a16-4018-a3e8-dc83cd4131c5" /><br>
+<img width="654" height="192" alt="image" src="https://github.com/user-attachments/assets/4973f67b-6cc5-42df-8942-7c88dd2ce660" /><br>
+
 
 
 
