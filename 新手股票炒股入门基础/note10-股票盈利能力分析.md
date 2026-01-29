@@ -28,6 +28,9 @@
 ## 5>净资产收益率，这是最重要，综合性最强的指标<br>
 <img width="961" height="731" alt="image" src="https://github.com/user-attachments/assets/98a28109-7a16-4018-a3e8-dc83cd4131c5" /><br>
 <img width="654" height="192" alt="image" src="https://github.com/user-attachments/assets/4973f67b-6cc5-42df-8942-7c88dd2ce660" /><br>
+### 公司净资产收益率的最低下限<br>
+<img width="947" height="526" alt="image" src="https://github.com/user-attachments/assets/2325ed21-276f-4af4-8e1a-420f525116c3" /><br>
+<img width="692" height="150" alt="image" src="https://github.com/user-attachments/assets/57d86953-c6cd-48f9-af7d-c12dc079bb95" /><br>
 
 
 
