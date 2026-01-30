@@ -17,6 +17,7 @@
 <img width="1585" height="816" alt="image" src="https://github.com/user-attachments/assets/b72484a7-deff-4cac-95d3-f987b5007511" /><br>
 ### 注意注意：底部突破失败案例<br>
 <img width="1545" height="783" alt="image" src="https://github.com/user-attachments/assets/e86614eb-1a88-43b9-ade3-0a47f5b928ba" /><br>
+### 总结，这个方法需要同时满足这两个添加，缺一不可。否则可能是失败的突破，后市依然看跌<br>
 
 
 
