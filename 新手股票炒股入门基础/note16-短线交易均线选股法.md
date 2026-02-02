@@ -1,4 +1,4 @@
-# 1.前面我们学习了底部放量突破买入法，这个方法不错，但是有一个缺点，就是等待的时间太长了<br>
+# 1.前面我们学习了底部放量突破买入法，这个方法不错，但是有一个缺点，就是等待的时间太长了，还有，太不会筑底<br>
 <img width="860" height="504" alt="image" src="https://github.com/user-attachments/assets/73eb87c2-8025-44f4-992d-50e285996c74" /><br>
 # 2.短线交易均线选股法<br>
 <img width="701" height="402" alt="image" src="https://github.com/user-attachments/assets/675838d6-0f71-49a9-ab72-f1a999f2c1c6" /><br>
