@@ -19,10 +19,16 @@
 <img width="671" height="469" alt="image" src="https://github.com/user-attachments/assets/9f6e99f9-cd9a-47ef-938c-bef176df7405" /><br>
 
 ###  2，矩形仓位管理法<br>
-<img width="1177" height="594" alt="image" src="https://github.com/user-attachments/assets/f8280913-cf7e-4a71-bc1d-7eef5825e76d" /><br>
-
+<img width="1514" height="687" alt="image" src="https://github.com/user-attachments/assets/4262594c-3ad3-404a-aafc-6e2eb101856e" /><br>
 
 ###  3.金字塔型仓位管理法<br>
+<img width="1573" height="709" alt="image" src="https://github.com/user-attachments/assets/50eb6858-8abd-4173-a6a8-d0926a0ae7f1" /><br>
+### 优缺点<br>
+<img width="903" height="632" alt="image" src="https://github.com/user-attachments/assets/55c29a6b-494a-4c01-8c33-1d8f4816a60d" /><br>
+### 三种方法对比<br>
+<img width="677" height="554" alt="image" src="https://github.com/user-attachments/assets/6687dd15-b377-454f-a6a2-0357d8246e2a" /><br>
+<img width="730" height="538" alt="image" src="https://github.com/user-attachments/assets/b81059b8-be5c-430c-913c-b07b42af984f" /><br>
+
 
 
 
