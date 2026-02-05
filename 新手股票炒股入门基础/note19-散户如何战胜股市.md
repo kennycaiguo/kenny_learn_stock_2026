@@ -3,7 +3,7 @@
 <img width="724" height="556" alt="image" src="https://github.com/user-attachments/assets/637ed4e6-bb2e-4ca0-afbe-d1204e74f0b4" /><br>
 ## 第二条<br>
 <img width="715" height="428" alt="image" src="https://github.com/user-attachments/assets/2e2d01cf-cd1e-4141-a53e-20bfbcbcd908" /><br>
-## 第三条<br>
+## 第三条，需要顺应市场而不是和市场反向而行<br>
 <img width="794" height="217" alt="image" src="https://github.com/user-attachments/assets/c36e1f64-a269-4fee-8739-04506d12ed84" /><br>
 ## 第四条<br>
 <img width="732" height="461" alt="image" src="https://github.com/user-attachments/assets/7aac02b7-4f3c-4f23-a7ec-52258d9a5977" /><br>
