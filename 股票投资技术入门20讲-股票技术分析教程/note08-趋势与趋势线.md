@@ -47,8 +47,3 @@
 <img width="1464" height="736" alt="image" src="https://github.com/user-attachments/assets/53068a96-ade2-4590-9fea-f6a42ff31de5" /><br>
 
 
-
-
-# 5.趋势线的应用方法和策略 <br>
-
-# 3. <br>
