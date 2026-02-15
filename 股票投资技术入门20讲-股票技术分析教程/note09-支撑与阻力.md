@@ -17,7 +17,10 @@
 <img width="915" height="266" alt="image" src="https://github.com/user-attachments/assets/7e74957e-dc6f-43d5-bf2b-5a03c94527fa" /><br>
 <img width="791" height="183" alt="image" src="https://github.com/user-attachments/assets/da3094d2-1b8e-4289-9d8b-eeb1d4af81c0" /><br>
 <img width="1475" height="790" alt="image" src="https://github.com/user-attachments/assets/633e3c5d-7dbc-4c71-af14-f0404a26f3d9" /><br>
-<img width="1495" height="787" alt="image" src="https://github.com/user-attachments/assets/3cd88ef9-f369-4083-9850-b02cdf068a77" /><br>
+<img width="1411" height="698" alt="image" src="https://github.com/user-attachments/assets/29e601b9-d02a-4d9b-9c48-aab56fbeb3e0" /><br>
+# 3.判断支撑线与阻力线的重要程度<br>
+<img width="941" height="694" alt="image" src="https://github.com/user-attachments/assets/4c96fc88-0c35-4740-8c22-f010e4b5accf" /><br>
+<img width="835" height="275" alt="image" src="https://github.com/user-attachments/assets/2762d396-8a06-4d05-8f66-710b3b825a56" /><br>
 
 
 
