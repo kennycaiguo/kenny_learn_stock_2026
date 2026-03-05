@@ -1,5 +1,5 @@
 <img width="1544" height="846" alt="image" src="https://github.com/user-attachments/assets/3b50a2f2-33ee-44dc-a7f5-a55eed70bb2b" /><br>
-# 个股的一下指标<br>
+# 个股的一些指标<br>
 <img width="1529" height="838" alt="image" src="https://github.com/user-attachments/assets/326e87be-bed6-468d-a7eb-4f97c799ec41" /><br>
 <img width="1534" height="856" alt="image" src="https://github.com/user-attachments/assets/526d28ac-e7c1-4996-9b59-33084d6ceeea" /><br>
 # 个股的集合竞价<br>
