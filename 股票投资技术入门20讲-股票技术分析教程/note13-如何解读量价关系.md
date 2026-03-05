@@ -3,7 +3,7 @@
 <img width="1624" height="848" alt="image" src="https://github.com/user-attachments/assets/7bd8cc02-5f2c-4820-b576-47ab2554ad4c" /><br>
 # 成交量和成交额哪个重要？<br>
 <img width="988" height="652" alt="image" src="https://github.com/user-attachments/assets/efa9ba9d-c4cf-4639-8445-2946ffab9b9c" /><br>
-
+# 成交量的操作指导意义<br>
 # 放量和缩量的解读<br>
 <img width="859" height="662" alt="image" src="https://github.com/user-attachments/assets/383ce611-42ce-402d-b187-37d914ae6cd9" /><br>
 ## 单日放量案例<br>
@@ -36,5 +36,7 @@
 <img width="1000" height="554" alt="image" src="https://github.com/user-attachments/assets/46cc0883-0dec-49f1-8c0f-46bed9f43868" /><br>
 ### 量价背离案例<br>
 <img width="1472" height="887" alt="image" src="https://github.com/user-attachments/assets/17ea4726-30cb-422a-b906-69873641b28c" /><br>
+<img width="1532" height="862" alt="image" src="https://github.com/user-attachments/assets/41d040ac-5079-4b79-a6cb-05cbd898361d" /><br>
+<img width="1543" height="875" alt="image" src="https://github.com/user-attachments/assets/4b1ceca1-52f4-416f-af33-a4ea172c9864" /><br>
 
-# 成交量的操作指导意义
+
